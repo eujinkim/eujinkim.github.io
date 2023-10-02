@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "7S66P3X5CQ.day.hearten.heartenApp",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
